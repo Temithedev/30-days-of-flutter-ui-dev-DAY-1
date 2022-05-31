@@ -1,4 +1,4 @@
-# microphone_ui
+# podcast_ui
 
 A new Flutter project.
 
